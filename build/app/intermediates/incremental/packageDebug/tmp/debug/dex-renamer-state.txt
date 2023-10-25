@@ -1,0 +1,4 @@
+#Wed Oct 25 21:36:00 ICT 2023
+base.0=D\:\\ROSYDAN\\Kuliah\\Semester 5\\Pemrograman Mobile\\Praktikum\\courier_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
